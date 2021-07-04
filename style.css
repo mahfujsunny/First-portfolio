@@ -1,0 +1,44 @@
+body {}
+
+.font1 {
+    font-family: 'Bona Nova', serif;
+    letter-spacing: 20px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.to {
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 170px;
+}
+
+.red {
+    color: red;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 100vh;
+    padding-top: 30px;
+}
+
+div {
+    padding: 50px;
+}
+
+.hire-me {
+    text-decoration: none;
+    background: linear-gradient(orange, red);
+    padding: 5px 10px;
+    color: white;
+}
